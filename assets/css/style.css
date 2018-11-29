@@ -1,0 +1,23 @@
+.jumbotron {
+    background: orangered;
+    color: #fff;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 700;
+    color: blue;
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+    color: green;
+}
